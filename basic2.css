@@ -1,0 +1,10 @@
+p.mix{
+    border-style: dotted;
+    border-width: thick;
+    border-color: blue,red,brown; /*top, left-right, bottom
+    border-color: blue,red; top-bottm, left-right*/ 
+}
+
+#p2{
+    text-align: left; /* # is for id provided in html*/
+}
